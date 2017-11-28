@@ -1,0 +1,10 @@
+IST-2017-11-28_19-51-53 ,918M,0,918M
+IST-2017-11-28_19-59-55 Filesystem,Size,Used,Avail,Use%,Mounted
+udev,918M,0,918M,0%,/dev
+tmpfs,188M,8.2M,180M,5%,/run
+/dev/sda1,11G,8.1G,1.9G,82%,/
+tmpfs,937M,244K,937M,1%,/dev/shm
+tmpfs,5.0M,4.0K,5.0M,1%,/run/lock
+tmpfs,937M,0,937M,0%,/sys/fs/cgroup
+tmpfs,188M,56K,188M,1%,/run/user/1000
+/home/pushpendra/.Private,11G,8.1G,1.9G,82%,/home/pushpendra
